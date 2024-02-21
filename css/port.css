@@ -1,0 +1,115 @@
+.h1{
+    display: flex;
+    flex-direction: row;
+    border: solid;
+    padding: 0 15px;
+    flex-wrap: nowrap;
+    width: 200px;
+    z-index: 400;
+    height: 70px;
+    line-height: 68px;
+    font-size: 20px;
+    background-color: aquamarine;
+    color: white;
+    justify-content: center;
+    align-items: center;
+    }
+
+    .ul{
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        justify-content: center;
+        flex-wrap: nowrap; 
+        list-style: none;
+        width: 300px;
+        margin: 0px;
+        padding: 0px;
+        border: 0px;
+        font-weight: 300;
+        font-style: normal;
+        font-size: 100%;
+        font-family: Arial, Helvetica, sans-serif;
+        vertical-align: baseline;
+        gap: 30px;
+       }
+
+       .About{
+        text-decoration: none;
+        color: black;}
+
+        .nav1{
+            display: flex;
+            flex-direction: row;
+            align-items: center;
+            gap: 403px;
+            justify-content: space-around;
+        }
+
+        .main{
+            display: flex;
+            justify-content: start;
+            align-items: center;
+            background-color: wheat;
+            border:thin;
+            height: 800px;
+            
+        }
+
+        .box1{
+            border: thin;
+            margin-left: 90px;
+            background: white;
+            height: 700px;
+            width: 600px;
+           
+        
+        }
+
+        .box1 h1{
+            color: aquamarine;
+            margin-left: 20px;
+            margin-right: 20px;
+            border-bottom: 1px solid black;
+            padding: 20px;
+        }
+
+        .box1 img{
+            display: flex;
+        
+            width: 200px;
+        
+        }
+
+        .img1{
+            float: right;
+        }
+        .img2{
+            float: right;
+        }
+
+        .box{
+            display: flex;
+            border: thin;
+            background: white;
+            width: 200px;
+            height: 150px;
+            margin-left: 90px;
+            margin-top: 100px;
+            margin-bottom: 600px;
+        }
+
+        .box4 h1{
+            display: flex;
+            color: aquamarine;
+            font-size: 20px;
+            margin-left: 20px;
+            margin-right: 20px;
+            border-bottom: 1px solid grey;
+            padding-bottom: 15px;
+        }
+
+        .box4 img{
+            width: 35px;
+            margin-left: 20px;
+        }

@@ -1,0 +1,161 @@
+.h1{
+    display: flex;
+    flex-direction: row;
+    border: solid;
+    padding: 0 15px;
+    flex-wrap: nowrap;
+    width: 200px;
+    z-index: 400;
+    height: 70px;
+    line-height: 68px;
+    font-size: 20px;
+    background-color: aquamarine;
+    color: white;
+    justify-content: center;
+    align-items: center;
+    }
+
+.ul{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: nowrap; 
+    list-style: none;
+    width: 300px;
+    margin: 0px;
+    padding: 0px;
+    border: 0px;
+    font-weight: 300;
+    font-style: normal;
+    font-size: 100%;
+    font-family: Arial, Helvetica, sans-serif;
+    vertical-align: baseline;
+    gap: 30px;
+   }
+.About{
+    text-decoration: none;
+    color: black;
+}
+.general{
+    display: flex;
+    
+    flex-direction: row;
+    align-items: center;
+    gap: 140px;
+    justify-content: space-around;
+}
+
+.main{
+    display: flex;
+    justify-content: start;
+    align-items: center;
+    background-color: wheat;
+    border:thin;
+    height: 800px;
+    
+}
+
+.box{
+    border: solid;
+    margin-left: 90px;
+    background: white;
+    border: thin;
+    height: 600px;
+    width: 700px;
+    margin-bottom: 144px;
+
+}
+.portfolio{
+    text-decoration: none;
+    color: black;
+}
+.box h1{
+    color: aquamarine;
+    margin-left: 20px;
+    margin-right: 20px;
+    border-bottom: 1px solid black;
+    padding: 20px;
+}
+
+.input{
+    width: 650px;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 10px;
+    height: 20px;
+}
+.label{
+    margin-left: 20px;
+    margin-bottom: 10px;
+}
+
+.email{
+    margin-top: 10px;
+    margin-left: 20px;
+    margin-right: 20px;
+    width: 650px;
+    height: 20px;
+}
+ 
+.label2{
+    margin-left: 20px;
+}
+
+.message{
+    margin-left: 20px;
+}
+
+.message1{
+    width: 650px;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 10px;
+    height: 250px;
+}
+
+.button{
+    width: 80px;
+    margin-left: 20px;
+    color: white;
+    background: green;
+    height: 30px;
+    border: thin;
+    
+}
+
+.boxing{
+    display: flex;
+    border: thin;
+    background: white;
+    width: 200px;
+    height: 150px;
+    margin-left: 90px;
+    margin-top: 0px;
+    margin-bottom: 600px;
+}
+
+.boxing3 h1{
+    display: flex;
+    color: aquamarine;
+    font-size: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    border-bottom: 1px solid grey;
+    padding-bottom: 15px;
+    
+}
+
+.boxing3 img{
+    width: 35px;
+    margin-left: 20px;
+    
+}
+
+.boxing h1{
+    border-bottom: 1px solid grey;
+    padding-bottom: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
