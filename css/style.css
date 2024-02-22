@@ -5,7 +5,7 @@
     padding: 0 15px;
     flex-wrap: nowrap;
     width: 200px;
-    z-index: 400;
+    /* z-index: 400; */
     height: 70px;
     line-height: 68px;
     font-size: 20px;
@@ -133,6 +133,7 @@
     margin-left: 90px;
     margin-top: 0px;
     margin-bottom: 600px;
+    background: white;
 }
 
 .boxing3 h1{
